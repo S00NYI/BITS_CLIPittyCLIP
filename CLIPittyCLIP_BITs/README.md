@@ -1,7 +1,12 @@
-Last Update: 2025-05-07
+# BITs
+Collection of custom <ins>**B**</ins>io<ins>**I**</ins>nformatics <ins>**T**</ins>ools and <ins>**S**</ins>cripts.
 
-## CLIPittyCLIP_BITs
-    
+Last Update: 2026-04-08
+
+----
+## CLIPittyCLIP BITs
+- Scripts associated with CLIPittyClip but not necessarily with CoCLIP Analysis.
+
 #### AllowedBarcodeMismatches.py:
   - Python script to check how many mismatches are allowed for barcode demultiplexing.
 
@@ -23,3 +28,7 @@ Last Update: 2025-05-07
       - gzip *.fastq
 
 
+----
+## CoCLIP Analysis
+CoCLIP analysis scripts have been moved to standalone repo:
+- https://github.com/S00NYI/BITS_CoCLIP
