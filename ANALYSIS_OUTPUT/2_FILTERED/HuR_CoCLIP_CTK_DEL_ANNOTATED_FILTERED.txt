@@ -1,0 +1,243 @@
+chr	start	end	name	score	strand	tagNumber(k)	mutationFreq(m)	FDR	count(>=m,k)	annotation	gene	external_gene_name	grouped_annotation
+chr21	8393828	8393829	chr21_f_c43[k=167][m=367]	367	+	167	367	0	1	Deep intronic	ENSG00000280441.4	""	Genic
+chr2	132255038	132255039	chr2_r_c190[k=179][m=342]	342	-	179	342	0	1	Deep intronic	""	""	Genic
+chr11	62855330	62855331	chr11_r_c139[k=1279][m=29]	29	-	1279	29	0	1	First intron	ENSG00000255717.10	SNHG1	Genic
+chr11	62855306	62855307	chr11_r_c137[k=2063][m=27]	27	-	2063	27	0	1	First intron	ENSG00000255717.10	SNHG1	Genic
+chr17	19188220	19188221	chr17_f_c35[k=33][m=26]	26	+	33	26	0	1	Other exon	ENSG00000263934.5	SNORD3A	Genic
+chr17	19062116	19062117	chr17_f_c29[k=25][m=24]	24	+	25	24	0	2	Other exon	ENSG00000265185.6	SNORD3B-1	Genic
+chr17	19112429	19112430	chr17_r_c37[k=25][m=24]	24	-	25	24	0	2	Proximal intronic	ENSG00000197665.8	GRAPL-AS1	Genic
+chr17	19063929	19063930	chr17_r_c32[k=35][m=24]	24	-	35	24	0	1	Deep intronic	ENSG00000197665.8	GRAPL-AS1	Genic
+chr21	8438038	8438039	chr21_f_c77[k=49][m=21]	21	+	49	21	0	1	Deep intronic	ENSG00000280441.4	""	Genic
+chr8	66922483	66922484	chr8_r_c55[k=1183][m=21]	21	-	1183	21	0	1	Proximal intronic	ENSG00000245910.10	SNHG6	Genic
+chr1	35184209	35184210	chr1_r_c84[k=42][m=19]	19	-	42	19	0	1	3'UTR	ENSG00000116560.12	SFPQ	Genic
+chr11	62855581	62855582	chr11_r_c141[k=548][m=19]	19	-	548	19	0	1	First intron	ENSG00000255717.10	SNHG1	Genic
+chr11	62855040	62855041	chr11_r_c134[k=425][m=14]	14	-	425	14	0	1	First intron	ENSG00000255717.10	SNHG1	Genic
+chr11	65501027	65501028	chr11_f_c102[k=2889][m=14]	14	+	2889	14	0	1	First intron	ENSG00000251562.13	MALAT1	Genic
+chr21	8446193	8446194	chr21_f_c110[k=9][m=12]	12	+	9	12	0	1	Deep intronic	ENSG00000280441.4	""	Genic
+chr17	19188203	19188204	chr17_f_c32[k=29][m=12]	12	+	29	12	0	1	Other exon	ENSG00000263934.5	SNORD3A	Genic
+chr17	19063947	19063948	chr17_r_c35[k=30][m=12]	12	-	30	12	0	1	Deep intronic	ENSG00000197665.8	GRAPL-AS1	Genic
+chr22	11251688	11251689	chr22_r_c1[k=63][m=12]	12	-	63	12	0	1	Deep intronic	""	""	Genic
+chr15	66501266	66501267	chr15_r_c75[k=198][m=11]	11	-	198	11	0	1	First intron	ENSG00000174444.16	""	Genic
+chr6	85677313	85677314	chr6_r_c107[k=266][m=11]	11	-	266	11	0	1	Proximal intronic	ENSG00000203875.14	SNHG5	Genic
+chr9	133349443	133349444	chr9_f_c172[k=388][m=11]	11	+	388	11	0	1	First intron	ENSG00000148303.18	""	Genic
+chr1	173864380	173864381	chr1_r_c345[k=260][m=10]	10	-	260	10	0	1	Proximal intronic	ENSG00000234741.11	GAS5	Genic
+chr1	630843	630844	chr1_r_c2[k=312][m=10]	10	-	312	10	0	1	First intron	ENSG00000225880.7	LINC00115	Genic
+chrM	5673	5674	chrM_r_c1[k=313][m=10]	10	-	313	10	0	1	Other exon	ENSG00000210135.1	MT-TN	Genic
+chr21	8218923	8218924	chr21_f_c28[k=7][m=9]	9	+	7	9	0	2	Deep intronic	ENSG00000278996.2	""	Genic
+chr21	8401962	8401963	chr21_f_c67[k=7][m=9]	9	+	7	9	0	2	Deep intronic	ENSG00000280441.4	""	Genic
+chr1	173865383	173865384	chr1_r_c350[k=715][m=9]	9	-	715	9	0	1	Proximal intronic	ENSG00000234741.11	GAS5	Genic
+chr1	228626017	228626018	chr1_r_c457[k=2][m=8]	8	-	2	8	0	3	Other exon	ENSG00000200343.1	RNA5S8	Genic
+chr1	228637204	228637205	chr1_r_c459[k=2][m=8]	8	-	2	8	0	3	Other exon	ENSG00000202526.1	RNA5S13	Genic
+chr1	228639445	228639446	chr1_r_c461[k=2][m=8]	8	-	2	8	0	3	Other exon	ENSG00000201355.1	RNA5S14	Genic
+chr12	104125243	104125244	chr12_f_c244[k=3][m=8]	8	+	3	8	0	1	Other exon	ENSG00000199415.1	RNA5SP370	Genic
+chr21	8438060	8438061	chr21_f_c82[k=40][m=7]	7	+	40	7	0	1	Deep intronic	ENSG00000280441.4	""	Genic
+chr19	49497775	49497776	chr19_f_c104[k=231][m=7]	7	+	231	7	0	1	3'UTR-distal	ENSG00000142534.8	""	Genic
+chr1	120060514	120060515	chr1_r_c267[k=2][m=6]	6	-	2	6	0	5	First intron	ENSG00000134250.22	""	Genic
+chr1	148670619	148670620	chr1_r_c292[k=2][m=6]	6	-	2	6	0	5	First intron	ENSG00000286019.4	""	Genic
+chr13	65621197	65621198	chr13_f_c76[k=2][m=6]	6	+	2	6	0	1	LINE	""	""	TE
+chr14	51126524	51126525	chr14_r_c85[k=2][m=6]	6	-	2	6	0	1	LINE	""	""	TE
+chr21	8254041	8254042	chr21_f_c29[k=2][m=6]	6	+	2	6	0	3	Deep intronic	""	""	Genic
+chr21	8392866	8392867	chr21_f_c37[k=2][m=6]	6	+	2	6	0	3	Deep intronic	ENSG00000280441.4	""	Genic
+chr21	8988372	8988373	chr21_f_c111[k=2][m=6]	6	+	2	6	0	3	Deep intronic	""	""	Genic
+chr8	110994384	110994385	chr8_r_c140[k=2][m=6]	6	-	2	6	0	1	LINE	ENSG00000253877.7	LINC01608	TE
+chr1	228625945	228625946	chr1_r_c456[k=3][m=6]	6	-	3	6	0	3	Other exon	ENSG00000200343.1	RNA5S8	Genic
+chr1	228637132	228637133	chr1_r_c458[k=3][m=6]	6	-	3	6	0	3	Other exon	ENSG00000202526.1	RNA5S13	Genic
+chr1	228639373	228639374	chr1_r_c460[k=3][m=6]	6	-	3	6	0	3	Other exon	ENSG00000201355.1	RNA5S14	Genic
+chr9	124887495	124887496	chr9_r_c148[k=47][m=6]	6	-	47	6	0	1	Deep intronic	ENSG00000136935.15	""	Genic
+chr12	120293184	120293185	chr12_r_c240[k=57][m=6]	6	-	57	6	0	1	Other exon	ENSG00000200795.2	RNU4-1	Genic
+chr12	120291850	120291851	chr12_r_c238[k=64][m=6]	6	-	64	6	0	1	First intron	ENSG00000202538.2	RNU4-2	Genic
+chr6	132815347	132815348	chr6_f_c190[k=266][m=6]	6	+	266	6	0	2	Deep intronic	ENSG00000112306.9	""	Genic
+chr6	31835286	31835287	chr6_f_c26[k=6][m=5]	5	+	6	5	0	1	3'UTR-distal	ENSG00000201823.1	SNORD48	Genic
+chr1	112653574	112653575	chr1_f_c236[k=7][m=5]	5	+	7	5	0	1	First intron	ENSG00000116489.14	""	Genic
+chr17	76564455	76564456	chr17_f_c158[k=8][m=5]	5	+	8	5	0	1	Alu	ENSG00000163597.18	SNHG16	TE
+chr21	8401819	8401820	chr21_f_c64[k=10][m=5]	5	+	10	5	0	1	Deep intronic	ENSG00000280441.4	""	Genic
+chr14	16055757	16055758	chr14_f_c1[k=62][m=5]	5	+	62	5	0	1	Deep intronic	""	""	Genic
+chr6	31541141	31541142	chr6_r_c32[k=101][m=5]	5	-	101	5	0	1	3'UTR-distal	ENSG00000198563.15	""	Genic
+chr21	8393845	8393846	chr21_f_c45[k=162][m=5]	5	+	162	5	0	1	Deep intronic	ENSG00000280441.4	""	Genic
+chr1	94897364	94897365	chr1_r_c218[k=168][m=5]	5	-	168	5	0	1	3'UTR	ENSG00000117519.17	""	Genic
+chrM	14691	14692	chrM_r_c7[k=260][m=5]	5	-	260	5	0	1	Other exon	ENSG00000210194.1	MT-TE	Genic
+chr1	44778439	44778440	chr1_f_c93[k=338][m=5]	5	+	338	5	0	1	Proximal intronic	ENSG00000142937.13	""	Genic
+chr11	62853944	62853945	chr11_r_c132[k=354][m=5]	5	-	354	5	0	1	Proximal intronic	ENSG00000255717.10	SNHG1	Genic
+chr11	62855610	62855611	chr11_r_c143[k=359][m=5]	5	-	359	5	0	1	First intron	ENSG00000255717.10	SNHG1	Genic
+chr20	2656982	2656983	chr20_f_c9[k=576][m=5]	5	+	576	5	0	1	Proximal intronic	ENSG00000101361.18	""	Genic
+chr20	2656993	2656994	chr20_f_c10[k=623][m=5]	5	+	623	5	0	1	Proximal intronic	ENSG00000101361.18	""	Genic
+chr10	23274880	23274881	chr10_r_c24[k=1][m=4]	4	-	1	4	0	3	LTR/ERV	ENSG00000179133.16	""	TE
+chr10	26102160	26102161	chr10_r_c30[k=1][m=4]	4	-	1	4	0	3	LINE	""	""	TE
+chr10	38395896	38395897	chr10_r_c61[k=1][m=4]	4	-	1	4	0	3	First intron	ENSG00000120555.16	SEPTIN7P9	Genic
+chr11	111180992	111180993	chr11_r_c235[k=1][m=4]	4	-	1	4	0	3	LTR/ERV	ENSG00000271584.3	LINC02550	TE
+chr1	120050627	120050628	chr1_r_c266[k=1][m=4]	4	-	1	4	0	29	First intron	ENSG00000134250.22	""	Genic
+chr1	120733067	120733068	chr1_f_c250[k=1][m=4]	4	+	1	4	0	29	First intron	ENSG00000273136.9	NBPF26	Genic
+chr1	120742953	120742954	chr1_f_c251[k=1][m=4]	4	+	1	4	0	29	First intron	ENSG00000273136.9	NBPF26	Genic
+chr1	120846392	120846393	chr1_r_c270[k=1][m=4]	4	-	1	4	0	29	LINE	ENSG00000287979.2	""	TE
+chr1	121007393	121007394	chr1_f_c253[k=1][m=4]	4	+	1	4	0	29	Deep intronic	ENSG00000226067.8	LINC00623	Genic
+chr1	121131910	121131911	chr1_f_c254[k=1][m=4]	4	+	1	4	0	29	Deep intronic	ENSG00000227193.3	""	Genic
+chr1	121700083	121700084	chr1_f_c260[k=1][m=4]	4	+	1	4	0	29	Satellite/LC	""	""	TE
+chr1	121701949	121701950	chr1_f_c261[k=1][m=4]	4	+	1	4	0	29	Satellite/LC	""	""	TE
+chr1	121705681	121705682	chr1_f_c262[k=1][m=4]	4	+	1	4	0	29	Satellite/LC	""	""	TE
+chr1	121940122	121940123	chr1_f_c263[k=1][m=4]	4	+	1	4	0	29	Satellite/LC	""	""	TE
+chr1	143790573	143790574	chr1_f_c265[k=1][m=4]	4	+	1	4	0	29	First intron	ENSG00000263590.3	LINC02591	Genic
+chr1	143919542	143919543	chr1_f_c267[k=1][m=4]	4	+	1	4	0	29	Deep intronic	ENSG00000230186.4	""	Genic
+chr1	145170630	145170631	chr1_r_c281[k=1][m=4]	4	-	1	4	0	29	First intron	ENSG00000290867.2	LINC01145	Genic
+chr1	145285697	145285698	chr1_f_c270[k=1][m=4]	4	+	1	4	0	29	LINE	ENSG00000276216.2	""	TE
+chr1	146210001	146210002	chr1_r_c286[k=1][m=4]	4	-	1	4	0	29	First intron	ENSG00000264343.8	""	Genic
+chr1	146219864	146219865	chr1_r_c287[k=1][m=4]	4	-	1	4	0	29	First intron	ENSG00000264343.8	""	Genic
+chr1	146368032	146368033	chr1_f_c275[k=1][m=4]	4	+	1	4	0	29	LINE	ENSG00000276509.2	""	TE
+chr1	148527187	148527188	chr1_f_c280[k=1][m=4]	4	+	1	4	0	29	LINE	""	""	TE
+chr1	148660742	148660743	chr1_r_c291[k=1][m=4]	4	-	1	4	0	29	First intron	ENSG00000286019.4	""	Genic
+chr1	149699183	149699184	chr1_f_c287[k=1][m=4]	4	+	1	4	0	29	Deep intronic	ENSG00000291158.2	LINC00869	Genic
+chr1	149826975	149826976	chr1_f_c288[k=1][m=4]	4	+	1	4	0	29	Deep intronic	""	""	Genic
+chr1	149866865	149866866	chr1_r_c294[k=1][m=4]	4	-	1	4	0	29	Deep intronic	""	""	Genic
+chr11	62355658	62355659	chr11_f_c75[k=1][m=4]	4	+	1	4	0	3	First intron	ENSG00000162174.13	""	Genic
+chr1	166105937	166105938	chr1_r_c328[k=1][m=4]	4	-	1	4	0	29	LINE	ENSG00000188859.7	FAM78B	TE
+chr1	185575884	185575885	chr1_r_c376[k=1][m=4]	4	-	1	4	0	29	LINE	ENSG00000228309.8	LINC01350	TE
+chr11	87343151	87343152	chr11_r_c197[k=1][m=4]	4	-	1	4	0	3	LINE	""	""	TE
+chr1	223863230	223863231	chr1_r_c440[k=1][m=4]	4	-	1	4	0	29	Deep intronic	""	""	Genic
+chr1	223999736	223999737	chr1_f_c435[k=1][m=4]	4	+	1	4	0	29	First intron	ENSG00000185495.11	SEPTIN7P13	Genic
+chr1	224349406	224349407	chr1_f_c438[k=1][m=4]	4	+	1	4	0	29	Deep intronic	""	""	Genic
+chr12	39159367	39159368	chr12_r_c82[k=1][m=4]	4	-	1	4	0	2	LINE	""	""	TE
+chr12	48436936	48436937	chr12_r_c95[k=1][m=4]	4	-	1	4	0	2	LINE	""	""	TE
+chr13	18835948	18835949	chr13_f_c0[k=1][m=4]	4	+	1	4	0	2	Deep intronic	""	""	Genic
+chr13	50506017	50506018	chr13_f_c49[k=1][m=4]	4	+	1	4	0	2	LINE	ENSG00000176124.16	DLEU1	TE
+chr14	48599033	48599034	chr14_r_c83[k=1][m=4]	4	-	1	4	0	2	Intergenic	""	""	Intergenic
+chr14	54061707	54061708	chr14_r_c87[k=1][m=4]	4	-	1	4	0	2	Deep intronic	ENSG00000297427.1	""	Genic
+chr15	21710159	21710160	chr15_r_c1[k=1][m=4]	4	-	1	4	0	4	Other exon	ENSG00000281087.1	""	Genic
+chr15	22152782	22152783	chr15_r_c2[k=1][m=4]	4	-	1	4	0	4	Other exon	ENSG00000223877.4	RPS8P10	Genic
+chr15	82422532	82422533	chr15_f_c103[k=1][m=4]	4	+	1	4	0	4	LINE	ENSG00000278202.1	GOLGA6L9-AS1	TE
+chr15	84524319	84524320	chr15_r_c134[k=1][m=4]	4	-	1	4	0	4	LINE	ENSG00000291027.2	UBE2Q2P1	TE
+chr1	68684477	68684478	chr1_f_c141[k=1][m=4]	4	+	1	4	0	29	LINE	ENSG00000285407.2	""	TE
+chr17	34064168	34064169	chr17_f_c73[k=1][m=4]	4	+	1	4	0	5	LINE	""	""	TE
+chr17	45512674	45512675	chr17_f_c95[k=1][m=4]	4	+	1	4	0	5	Deep intronic	ENSG00000267198.2	""	Genic
+chr17	45516667	45516668	chr17_f_c96[k=1][m=4]	4	+	1	4	0	5	Deep intronic	ENSG00000267198.2	""	Genic
+chr17	46551017	46551018	chr17_r_c85[k=1][m=4]	4	-	1	4	0	5	Deep intronic	ENSG00000185829.19	ARL17A	Genic
+chr17	64858270	64858271	chr17_f_c141[k=1][m=4]	4	+	1	4	0	5	First intron	ENSG00000265218.2	""	Genic
+chr18	56415765	56415766	chr18_r_c76[k=1][m=4]	4	-	1	4	0	2	LTR/ERV	""	""	TE
+chr18	56421223	56421224	chr18_r_c77[k=1][m=4]	4	-	1	4	0	2	LTR/ERV	""	""	TE
+chr19	20080425	20080426	chr19_r_c30[k=1][m=4]	4	-	1	4	0	1	Other exon	ENSG00000240673.1	RPS8P11	Genic
+chr1	96616622	96616623	chr1_r_c220[k=1][m=4]	4	-	1	4	0	29	LINE	""	""	TE
+chr21	5499125	5499126	chr21_r_c0[k=1][m=4]	4	-	1	4	0	4	Other exon	ENSG00000279094.4	LINC01670	Genic
+chr21	6321846	6321847	chr21_f_c2[k=1][m=4]	4	+	1	4	0	4	First intron	ENSG00000278903.6	""	Genic
+chr21	6667278	6667279	chr21_r_c6[k=1][m=4]	4	-	1	4	0	4	First intron	ENSG00000280145.4	""	Genic
+chr21	6994348	6994349	chr21_r_c8[k=1][m=4]	4	-	1	4	0	4	Deep intronic	ENSG00000280018.5	""	Genic
+chr2	95898285	95898286	chr2_r_c145[k=1][m=4]	4	-	1	4	0	4	Deep intronic	ENSG00000174501.15	ANKRD36C	Genic
+chr2	95903901	95903902	chr2_r_c146[k=1][m=4]	4	-	1	4	0	4	Deep intronic	ENSG00000174501.15	ANKRD36C	Genic
+chr2	95909517	95909518	chr2_r_c147[k=1][m=4]	4	-	1	4	0	4	Deep intronic	ENSG00000174501.15	ANKRD36C	Genic
+chr2	95916990	95916991	chr2_r_c148[k=1][m=4]	4	-	1	4	0	4	Deep intronic	ENSG00000174501.15	ANKRD36C	Genic
+chr3	102557692	102557693	chr3_r_c181[k=1][m=4]	4	-	1	4	0	6	Intergenic	""	""	Intergenic
+chr3	122435693	122435694	chr3_f_c305[k=1][m=4]	4	+	1	4	0	6	LTR/ERV	""	""	TE
+chr3	18328675	18328676	chr3_r_c51[k=1][m=4]	4	-	1	4	0	6	LINE	ENSG00000299156.1	""	TE
+chr3	18518711	18518712	chr3_f_c132[k=1][m=4]	4	+	1	4	0	6	LINE	ENSG00000228956.10	SATB1-AS1	TE
+chr3	187154915	187154916	chr3_f_c416[k=1][m=4]	4	+	1	4	0	6	LINE	""	""	TE
+chr3	197955768	197955769	chr3_f_c432[k=1][m=4]	4	+	1	4	0	6	CDS	ENSG00000182899.18	""	Genic
+chr4	109414524	109414525	chr4_f_c241[k=1][m=4]	4	+	1	4	0	7	LTR/ERV	""	""	TE
+chr4	124615386	124615387	chr4_f_c258[k=1][m=4]	4	+	1	4	0	7	LINE	""	""	TE
+chr4	156600300	156600301	chr4_f_c279[k=1][m=4]	4	+	1	4	0	7	LTR/ERV	""	""	TE
+chr4	156605688	156605689	chr4_f_c280[k=1][m=4]	4	+	1	4	0	7	LTR/ERV	""	""	TE
+chr4	38339592	38339593	chr4_r_c78[k=1][m=4]	4	-	1	4	0	7	LTR/ERV	""	""	TE
+chr4	454821	454822	chr4_r_c0[k=1][m=4]	4	-	1	4	0	7	LTR/ERV	ENSG00000182903.16	ZNF721	TE
+chr5	136739504	136739505	chr5_r_c244[k=1][m=4]	4	-	1	4	0	16	LTR/ERV	""	""	TE
+chr5	146139003	146139004	chr5_f_c238[k=1][m=4]	4	+	1	4	0	16	Other exon	ENSG00000239317.1	RPL35AP17	Genic
+chr5	21487468	21487469	chr5_f_c34[k=1][m=4]	4	+	1	4	0	16	First intron	ENSG00000183666.20	GUSBP1	Genic
+chr5	33162290	33162291	chr5_f_c65[k=1][m=4]	4	+	1	4	0	16	Other exon	ENSG00000240376.1	""	Genic
+chr5	69906544	69906545	chr5_f_c117[k=1][m=4]	4	+	1	4	0	16	First intron	ENSG00000198237.8	GUSBP13	Genic
+chr5	69965188	69965189	chr5_f_c119[k=1][m=4]	4	+	1	4	0	16	First intron	ENSG00000295602.1	""	Genic
+chr5	69965302	69965303	chr5_f_c120[k=1][m=4]	4	+	1	4	0	16	Other SINE	ENSG00000295602.1	""	TE
+chr5	70152859	70152860	chr5_r_c118[k=1][m=4]	4	-	1	4	0	16	Other SINE	ENSG00000300022.1	""	TE
+chr5	70152984	70152985	chr5_r_c119[k=1][m=4]	4	-	1	4	0	16	Deep intronic	ENSG00000300022.1	""	Genic
+chr5	70211592	70211593	chr5_r_c120[k=1][m=4]	4	-	1	4	0	16	First intron	ENSG00000300022.1	""	Genic
+chr5	70840259	70840260	chr5_f_c125[k=1][m=4]	4	+	1	4	0	16	First intron	ENSG00000297805.1	""	Genic
+chr5	70840373	70840374	chr5_f_c126[k=1][m=4]	4	+	1	4	0	16	Other SINE	ENSG00000297805.1	""	TE
+chr5	71153297	71153298	chr5_r_c123[k=1][m=4]	4	-	1	4	0	16	Deep intronic	ENSG00000296329.1	""	Genic
+chr5	72878869	72878870	chr5_r_c125[k=1][m=4]	4	-	1	4	0	16	Other exon	ENSG00000242602.1	RPL35AP13	Genic
+chr5	76035697	76035698	chr5_f_c133[k=1][m=4]	4	+	1	4	0	16	LINE	""	""	TE
+chr5	80185845	80185846	chr5_r_c135[k=1][m=4]	4	-	1	4	0	16	LTR/ERV	ENSG00000164300.19	""	TE
+chr6	26893005	26893006	chr6_r_c23[k=1][m=4]	4	-	1	4	0	2	First intron	ENSG00000290474.2	""	Genic
+chr6	58230530	58230531	chr6_r_c64[k=1][m=4]	4	-	1	4	0	2	LINE	""	""	TE
+chr7	146306229	146306230	chr7_f_c296[k=1][m=4]	4	+	1	4	0	4	LINE	ENSG00000174469.23	CNTNAP2	TE
+chr7	45761958	45761959	chr7_r_c80[k=1][m=4]	4	-	1	4	0	4	First intron	ENSG00000214765.11	SEPTIN7P2	Genic
+chr7	48968253	48968254	chr7_f_c82[k=1][m=4]	4	+	1	4	0	4	LTR/ERV	""	""	TE
+chr7	56443059	56443060	chr7_r_c94[k=1][m=4]	4	-	1	4	0	4	LINE	ENSG00000291184.2	""	TE
+chr8	54193046	54193047	chr8_r_c38[k=1][m=4]	4	-	1	4	0	3	Deep intronic	""	""	Genic
+chr8	67590317	67590318	chr8_f_c80[k=1][m=4]	4	+	1	4	0	3	LINE	""	""	TE
+chr8	94136402	94136403	chr8_r_c117[k=1][m=4]	4	-	1	4	0	3	LINE	ENSG00000079112.11	""	TE
+chr9	102712679	102712680	chr9_f_c99[k=1][m=4]	4	+	1	4	0	11	LTR/ERV	""	""	TE
+chr9	115707254	115707255	chr9_r_c113[k=1][m=4]	4	-	1	4	0	11	LINE	ENSG00000228714.5	""	TE
+chr9	124731564	124731565	chr9_r_c144[k=1][m=4]	4	-	1	4	0	11	Deep intronic	ENSG00000148200.18	""	Genic
+chr9	17260369	17260370	chr9_r_c15[k=1][m=4]	4	-	1	4	0	11	LINE	""	""	TE
+chr9	27343302	27343303	chr9_r_c22[k=1][m=4]	4	-	1	4	0	11	Deep intronic	ENSG00000120162.11	""	Genic
+chr9	40566221	40566222	chr9_r_c49[k=1][m=4]	4	-	1	4	0	11	Proximal intronic	ENSG00000276500.1	BMS1P14	Genic
+chr9	43221697	43221698	chr9_r_c50[k=1][m=4]	4	-	1	4	0	11	Intergenic	""	""	Intergenic
+chr9	63064847	63064848	chr9_f_c59[k=1][m=4]	4	+	1	4	0	11	Deep intronic	ENSG00000310065.1	""	Genic
+chr9	63367132	63367133	chr9_r_c51[k=1][m=4]	4	-	1	4	0	11	Deep intronic	ENSG00000290549.2	""	Genic
+chr9	71589929	71589930	chr9_f_c63[k=1][m=4]	4	+	1	4	0	11	Other exon	ENSG00000229814.1	RPL35AP21	Genic
+chr9	76575311	76575312	chr9_r_c66[k=1][m=4]	4	-	1	4	0	11	Alu	""	""	TE
+chrX	20703273	20703274	chrX_r_c20[k=1][m=4]	4	-	1	4	0	9	LINE	ENSG00000306298.1	""	TE
+chrX	20812080	20812081	chrX_r_c21[k=1][m=4]	4	-	1	4	0	9	LINE	""	""	TE
+chrX	28209665	28209666	chrX_f_c22[k=1][m=4]	4	+	1	4	0	9	LINE	""	""	TE
+chrX	66648763	66648764	chrX_r_c45[k=1][m=4]	4	-	1	4	0	9	LINE	""	""	TE
+chrX	75616988	75616989	chrX_f_c63[k=1][m=4]	4	+	1	4	0	9	LINE	ENSG00000302260.1	""	TE
+chrX	76548697	76548698	chrX_f_c64[k=1][m=4]	4	+	1	4	0	9	LINE	""	""	TE
+chrX	86352492	86352493	chrX_r_c68[k=1][m=4]	4	-	1	4	0	9	LINE	""	""	TE
+chrX	86559057	86559058	chrX_r_c69[k=1][m=4]	4	-	1	4	0	9	LINE	""	""	TE
+chrX	94704519	94704520	chrX_r_c72[k=1][m=4]	4	-	1	4	0	9	LTR/ERV	""	""	TE
+chrY	22544879	22544880	chrY_r_c1[k=1][m=4]	4	-	1	4	0	4	LINE	""	""	TE
+chrY	24160280	24160281	chrY_f_c3[k=1][m=4]	4	+	1	4	0	4	LINE	""	""	TE
+chrY	25509859	25509860	chrY_r_c3[k=1][m=4]	4	-	1	4	0	4	LINE	""	""	TE
+chrY	26019272	26019273	chrY_r_c4[k=1][m=4]	4	-	1	4	0	4	LINE	""	""	TE
+chr12	21475561	21475562	chr12_r_c47[k=2][m=4]	4	-	2	4	0	2	CDS	ENSG00000004700.17	""	Genic
+chr12	33022209	33022210	chr12_f_c89[k=2][m=4]	4	+	2	4	0	2	Intergenic	""	""	Intergenic
+chr1	52064836	52064837	chr1_f_c105[k=2][m=4]	4	+	2	4	0	6	5'UTR	ENSG00000134717.19	""	Genic
+chr4	69762963	69762964	chr4_r_c114[k=2][m=4]	4	-	2	4	0	1	Deep intronic	""	""	Genic
+chr7	102340667	102340668	chr7_f_c158[k=2][m=4]	4	+	2	4	0	5	LTR/ERV	ENSG00000296900.1	""	TE
+chr7	35869785	35869786	chr7_f_c54[k=2][m=4]	4	+	2	4	0	5	Deep intronic	ENSG00000122545.22	SEPTIN7	Genic
+chr7	67294061	67294062	chr7_r_c98[k=2][m=4]	4	-	2	4	0	5	LTR/ERV	ENSG00000291154.2	""	TE
+chr7	75509375	75509376	chr7_r_c107[k=2][m=4]	4	-	2	4	0	5	LTR/ERV	ENSG00000291092.2	PMS2P3	TE
+chr7	76526252	76526253	chr7_f_c108[k=2][m=4]	4	+	2	4	0	5	3'UTR-distal	ENSG00000230305.2	""	Genic
+chr11	10508395	10508396	chr11_r_c35[k=3][m=4]	4	-	3	4	0	1	3'UTR-distal	""	""	Genic
+chr12	9313308	9313309	chr12_f_c24[k=3][m=4]	4	+	3	4	0	3	Other exon	ENSG00000299022.1	""	Genic
+chr12	9418494	9418495	chr12_r_c6[k=3][m=4]	4	-	3	4	0	3	Other exon	ENSG00000295911.1	""	Genic
+chr21	8393235	8393236	chr21_f_c38[k=3][m=4]	4	+	3	4	0	2	Deep intronic	ENSG00000280441.4	""	Genic
+chr21	8437445	8437446	chr21_f_c71[k=3][m=4]	4	+	3	4	0	2	Deep intronic	ENSG00000280441.4	""	Genic
+chr3	71929521	71929522	chr3_r_c152[k=3][m=4]	4	-	3	4	0	1	Intergenic	""	""	Intergenic
+chr5	90594521	90594522	chr5_f_c154[k=3][m=4]	4	+	3	4	0	1	First intron	ENSG00000164199.18	ADGRV1	Genic
+chr11	68474952	68474953	chr11_f_c176[k=4][m=4]	4	+	4	4	0	1	First intron	ENSG00000110075.16	""	Genic
+chr1	204506582	204506583	chr1_f_c402[k=4][m=4]	4	+	4	4	0	1	tRNA*	""	""	ncRNA
+chr12	26988048	26988049	chr12_r_c70[k=4][m=4]	4	-	4	4	0	1	LINE	ENSG00000064115.12	""	TE
+chr21	8218241	8218242	chr21_f_c23[k=4][m=4]	4	+	4	4	0	1	Deep intronic	ENSG00000278996.2	""	Genic
+chr2	38691739	38691740	chr2_f_c40[k=4][m=4]	4	+	4	4	0	1	First intron	ENSG00000143891.18	""	Genic
+chr3	96617442	96617443	chr3_r_c172[k=4][m=4]	4	-	4	4	0	1	Deep intronic	""	""	Genic
+chr5	77786160	77786161	chr5_f_c136[k=4][m=4]	4	+	4	4	0	1	Deep intronic	""	""	Genic
+chr21	8401464	8401465	chr21_f_c62[k=5][m=4]	4	+	5	4	0	2	Deep intronic	ENSG00000280441.4	""	Genic
+chr21	8445696	8445697	chr21_f_c104[k=5][m=4]	4	+	5	4	0	2	Deep intronic	ENSG00000280441.4	""	Genic
+chr6	146604476	146604477	chr6_f_c226[k=5][m=4]	4	+	5	4	0	1	First intron	ENSG00000118492.19	ADGB	Genic
+chr22	41073659	41073660	chr22_r_c54[k=6][m=4]	4	-	6	4	0	1	Deep intronic	""	""	Genic
+chr1	90011543	90011544	chr1_f_c186[k=10][m=4]	4	+	10	4	0	1	Deep intronic	ENSG00000162664.18	""	Genic
+chr17	19062090	19062091	chr17_f_c28[k=12][m=4]	4	+	12	4	0	1	Other exon	ENSG00000265185.6	SNORD3B-1	Genic
+chr17	19112456	19112457	chr17_r_c38[k=13][m=4]	4	-	13	4	0	1	Proximal intronic	ENSG00000197665.8	GRAPL-AS1	Genic
+chr7	45252009	45252010	chr7_f_c81[k=18][m=4]	4	+	18	4	0	1	Deep intronic	""	""	Genic
+chr17	19188194	19188195	chr17_f_c31[k=19][m=4]	4	+	19	4	0	1	Other exon	ENSG00000263934.5	SNORD3A	Genic
+chr17	19063956	19063957	chr17_r_c36[k=20][m=4]	4	-	20	4	0	1	Deep intronic	ENSG00000197665.8	GRAPL-AS1	Genic
+chr7	5527236	5527237	chr7_r_c4[k=22][m=4]	4	-	22	4	0	1	3'UTR	ENSG00000075624.18	""	Genic
+chr1	223863586	223863587	chr1_r_c441[k=33][m=4]	4	-	33	4	0	1	Deep intronic	""	""	Genic
+chr21	8438055	8438056	chr21_f_c81[k=48][m=4]	4	+	48	4	0	1	Deep intronic	ENSG00000280441.4	""	Genic
+chr11	2130528	2130529	chr11_r_c2[k=51][m=4]	4	-	51	4	0	1	3'UTR	ENSG00000167244.22	IGF2	Genic
+chr21	8438045	8438046	chr21_f_c78[k=53][m=4]	4	+	53	4	0	1	Deep intronic	ENSG00000280441.4	""	Genic
+chr15	66503260	66503261	chr15_r_c82[k=64][m=4]	4	-	64	4	0	1	First intron	ENSG00000174444.16	""	Genic
+chrM	2456	2457	chrM_f_c22[k=69][m=4]	4	+	69	4	0	1	Other exon	ENSG00000210082.2	MT-RNR2	Genic
+chr2	54668708	54668709	chr2_f_c70[k=88][m=4]	4	+	88	4	0	1	3'UTR	ENSG00000115306.18	""	Genic
+chr9	6835729	6835730	chr9_f_c13[k=102][m=4]	4	+	102	4	0	1	Deep intronic	ENSG00000107077.22	""	Genic
+chr17	28723720	28723721	chr17_f_c45[k=144][m=4]	4	+	144	4	0	1	Proximal intronic	ENSG00000198242.15	""	Genic
+chr5	80299535	80299536	chr5_r_c138[k=144][m=4]	4	-	144	4	0	1	Deep intronic	""	""	Genic
+chr21	8393850	8393851	chr21_f_c46[k=157][m=4]	4	+	157	4	0	1	Deep intronic	ENSG00000280441.4	""	Genic
+chr1	30949143	30949144	chr1_r_c71[k=183][m=4]	4	-	183	4	0	1	Deep intronic	ENSG00000134644.17	""	Genic
+chr1	30935714	30935715	chr1_r_c68[k=184][m=4]	4	-	184	4	0	1	Deep intronic	ENSG00000134644.17	""	Genic
+chr15	66501283	66501284	chr15_r_c76[k=189][m=4]	4	-	189	4	0	1	First intron	ENSG00000174444.16	""	Genic
+chr9	133350879	133350880	chr9_f_c178[k=190][m=4]	4	+	190	4	0	1	Proximal intronic	ENSG00000148303.18	""	Genic
+chr15	66502054	66502055	chr15_r_c80[k=191][m=4]	4	-	191	4	0	1	First intron	ENSG00000174444.16	""	Genic
+chr5	94569484	94569485	chr5_r_c191[k=260][m=4]	4	-	260	4	0	1	First intron	ENSG00000185261.16	KIAA0825	Genic
+chr9	131485733	131485734	chr9_f_c164[k=339][m=4]	4	+	339	4	0	1	Deep intronic	ENSG00000235284.1	SNORD62A	Genic
+chr9	131490554	131490555	chr9_f_c166[k=340][m=4]	4	+	340	4	0	1	Deep intronic	ENSG00000231587.1	SNORD62B	Genic
+chr11	62854656	62854657	chr11_r_c133[k=428][m=4]	4	-	428	4	0	1	Proximal intronic	ENSG00000255717.10	SNHG1	Genic
+chr11	62855591	62855592	chr11_r_c142[k=484][m=4]	4	-	484	4	0	1	First intron	ENSG00000255717.10	SNHG1	Genic
+chr7	5527623	5527624	chr7_r_c7[k=684][m=4]	4	-	684	4	0	1	3'UTR	ENSG00000075624.18	""	Genic
+chr7	5527606	5527607	chr7_r_c6[k=712][m=4]	4	-	712	4	0	1	3'UTR	ENSG00000075624.18	""	Genic
+chr8	66922505	66922506	chr8_r_c58[k=913][m=4]	4	-	913	4	0	1	Proximal intronic	ENSG00000245910.10	SNHG6	Genic
